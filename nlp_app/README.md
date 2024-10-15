@@ -6,7 +6,8 @@
 4. git add .
 5. git commit -m "comment"
 6. git push origin branch
-7.
+7. Open Github : Open own Branch --> Contribute --> Open Pull Request --> Create Pull Request --> Merge Pull Request --> Confirm Merge
+8. repeat step 1
 
 # Pages
 
