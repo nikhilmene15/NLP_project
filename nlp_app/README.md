@@ -1,3 +1,13 @@
+# Step to Follow
+
+1. git checkout main
+2. git pull origin main
+3. git checkout branch
+4. git add .
+5. git commit -m "comment"
+6. git push origin branch
+7.
+
 # Pages
 
 1. https://www.samsung.com/in/
