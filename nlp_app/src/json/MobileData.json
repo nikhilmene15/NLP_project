@@ -1,0 +1,1442 @@
+[
+  {
+    "id": "xiaomi_poco_f6-13000",
+    "img": "https://m.media-amazon.com/images/I/41pcjBwgZLL._SL500_.jpg",
+    "url": "https://www.amazon.de/dp/B0CTHYJ7RK?tag=gsmarena0ca-21&linkCode=osi&th=1&psc=1",
+    "name": "Xiaomi Poco F6",
+    "description": "Poco F6 Smartphone, 12+512GB Handy ohne Vertrag, 120Hz 6,67'' Flow AMOLED, 50MP OIS Zweifach-Kamera, 5000mAh, 90W TurboCharge, Dual-SIM, Gold",
+    "deal": {
+      "memory": "512GB 12GB RAM",
+      "storeImg": "https://fdn.gsmarena.com/imgroot/static/stores/amazon-de1.png",
+      "price": 379.9,
+      "currency": "€",
+      "discount": 12.4
+    },
+    "history": [
+      {
+        "time": "Previous",
+        "price": 446.41,
+        "currency": "€"
+      },
+      {
+        "time": "Min",
+        "price": 389.9,
+        "currency": "€"
+      },
+      {
+        "time": "Max",
+        "price": 499.9,
+        "currency": "€"
+      },
+      {
+        "time": "30 Day Avg",
+        "price": 441.9,
+        "currency": "€"
+      }
+    ]
+  },
+  {
+    "id": "xiaomi_poco_f6-13000",
+    "img": "https://m.media-amazon.com/images/I/41AR4Q8YICL._SL500_.jpg",
+    "url": "https://www.amazon.de/dp/B0CTHXD3RX?tag=gsmarena0ca-21&linkCode=osi&th=1&psc=1",
+    "name": "Xiaomi Poco F6",
+    "description": "Poco F6 Smartphone, 12+512GB Handy ohne Vertrag, 120Hz 6,67'' Flow AMOLED, 50MP OIS Zweifach-Kamera, 5000mAh, 90W TurboCharge, Dual-SIM, Black",
+    "deal": {
+      "memory": "512GB 12GB RAM",
+      "storeImg": "https://fdn.gsmarena.com/imgroot/static/stores/amazon-de1.png",
+      "price": 379.9,
+      "currency": "€",
+      "discount": 12.5
+    },
+    "history": [
+      {
+        "time": "Previous",
+        "price": 479.9,
+        "currency": "€"
+      },
+      {
+        "time": "Min",
+        "price": 389.9,
+        "currency": "€"
+      },
+      {
+        "time": "Max",
+        "price": 499.9,
+        "currency": "€"
+      },
+      {
+        "time": "30 Day Avg",
+        "price": 442.56,
+        "currency": "€"
+      }
+    ]
+  },
+  {
+    "id": "oneplus_nord_ce4_lite-13166",
+    "img": "https://m.media-amazon.com/images/I/41Y148Jq4wL._SL500_.jpg",
+    "url": "https://www.amazon.co.uk/dp/B0D47HKQJM?tag=gsmcom-21&linkCode=osi&th=1&psc=1",
+    "name": "OnePlus Nord CE4 Lite",
+    "description": "OnePlus Nord CE 4 Lite 5G 8GB RAM 256GB Storage SIM-Free Smartphone with 50MP Dual Camera - 2 Mega Blue",
+    "deal": {
+      "memory": "256GB 8GB RAM",
+      "storeImg": "https://fdn.gsmarena.com/imgroot/static/stores/amazon-uk1.png",
+      "price": 229,
+      "currency": "£",
+      "discount": 3.3
+    },
+    "history": [
+      {
+        "time": "Previous",
+        "price": 249,
+        "currency": "£"
+      },
+      {
+        "time": "Min",
+        "price": 235,
+        "currency": "£"
+      },
+      {
+        "time": "Max",
+        "price": 355,
+        "currency": "£"
+      },
+      {
+        "time": "30 Day Avg",
+        "price": 240.59,
+        "currency": "£"
+      }
+    ]
+  },
+  {
+    "id": "oneplus_11-11893",
+    "img": "https://m.media-amazon.com/images/I/41XKaQncT5L._SL500_.jpg",
+    "url": "https://www.amazon.co.uk/dp/B0BQRT6CY1?tag=gsmcom-21&linkCode=osi&th=1&psc=1",
+    "name": "OnePlus 11",
+    "description": "OnePlus 11 5G (UK) 16GB RAM 256GB Storage SIM-Free Smartphone with 3rd Gen Hasselblad Camera for Mobile - Eternal Green [UK version]",
+    "deal": {
+      "memory": "256GB 16GB RAM",
+      "storeImg": "https://fdn.gsmarena.com/imgroot/static/stores/amazon-uk1.png",
+      "price": 491.68,
+      "currency": "£",
+      "discount": 20
+    },
+    "history": [
+      {
+        "time": "Previous",
+        "price": 546.31,
+        "currency": "£"
+      },
+      {
+        "time": "Min",
+        "price": 541.61,
+        "currency": "£"
+      },
+      {
+        "time": "Max",
+        "price": 899,
+        "currency": "£"
+      },
+      {
+        "time": "30 Day Avg",
+        "price": 671.22,
+        "currency": "£"
+      }
+    ]
+  },
+  {
+    "id": "oneplus_12-12725",
+    "img": "https://m.media-amazon.com/images/I/41gDkwsljuL._SL500_.jpg",
+    "url": "https://www.amazon.co.uk/dp/B0CPYLS99X?tag=gsmcom-21&linkCode=osi&th=1&psc=1",
+    "name": "OnePlus 12",
+    "description": "OnePlus 12 5G (UK) 16GB RAM 512GB Storage SIM-Free Smartphone with 4th Gen Hasselblad Camera for Mobile - 2 Year Warranty - Flowy Emerald",
+    "deal": {
+      "memory": "512GB 16GB RAM",
+      "storeImg": "https://fdn.gsmarena.com/imgroot/static/stores/amazon-uk1.png",
+      "price": 699,
+      "currency": "£",
+      "discount": 20.4
+    },
+    "history": [
+      {
+        "time": "Previous",
+        "price": 839,
+        "currency": "£"
+      },
+      {
+        "time": "Min",
+        "price": 749,
+        "currency": "£"
+      },
+      {
+        "time": "Max",
+        "price": 999.9,
+        "currency": "£"
+      },
+      {
+        "time": "30 Day Avg",
+        "price": 902.96,
+        "currency": "£"
+      }
+    ]
+  },
+  {
+    "id": "vivo_y76_5g-11231",
+    "img": "https://m.media-amazon.com/images/I/41yFMDvA45L._SL500_.jpg",
+    "url": "https://www.amazon.de/dp/B07WFPLTX8?tag=gsmarena0ca-21&linkCode=osi&th=1&psc=1",
+    "name": "vivo Y76 5G",
+    "description": "VIVO Y76 5G Smartphone 16,58 cm Blau 128 GB",
+    "deal": {
+      "memory": "128GB 8GB RAM",
+      "storeImg": "https://fdn.gsmarena.com/imgroot/static/stores/amazon-de1.png",
+      "price": 195.04,
+      "currency": "€",
+      "discount": 45
+    },
+    "history": [
+      {
+        "time": "Previous",
+        "price": 216.71,
+        "currency": "€"
+      },
+      {
+        "time": "Min",
+        "price": 212.29,
+        "currency": "€"
+      },
+      {
+        "time": "Max",
+        "price": 481.58,
+        "currency": "€"
+      },
+      {
+        "time": "30 Day Avg",
+        "price": 411.93,
+        "currency": "€"
+      }
+    ]
+  },
+  {
+    "id": "apple_iphone_16_plus-13316",
+    "img": "https://m.media-amazon.com/images/I/31Ua8DRt9QL._SL500_.jpg",
+    "url": "https://www.amazon.de/dp/B0DGHTT36M?tag=gsmarena0ca-21&linkCode=osi&th=1&psc=1",
+    "name": "Apple iPhone 16 Plus",
+    "description": "Apple iPhone 16 Plus 128 GB: 5G Handy mit Kamerasteuerung, A18 Chip und einem echten Boost für die Batterie. Funktioniert mit AirPods, Ultramarin",
+    "deal": {
+      "memory": "128GB 8GB RAM",
+      "storeImg": "https://fdn.gsmarena.com/imgroot/static/stores/amazon-de1.png",
+      "price": 1099,
+      "currency": "€",
+      "discount": 7.6
+    },
+    "history": [
+      {
+        "time": "Previous",
+        "price": 1189.41,
+        "currency": "€"
+      },
+      {
+        "time": "Min",
+        "price": 1189.41,
+        "currency": "€"
+      },
+      {
+        "time": "Max",
+        "price": 1189.41,
+        "currency": "€"
+      },
+      {
+        "time": "1 Day Avg",
+        "price": 1189.41,
+        "currency": "€"
+      }
+    ]
+  },
+  {
+    "id": "motorola_edge_50_fusion-12871",
+    "img": "https://m.media-amazon.com/images/I/41S2bt-1yfL._SL500_.jpg",
+    "url": "https://www.amazon.de/dp/B0CYQCSZNW?tag=gsmarena0ca-21&linkCode=osi&th=1&psc=1",
+    "name": "Motorola Edge 50 Fusion",
+    "description": "Motorola Moto Edge50 Fusion Smartphone (6,7''-FHD+-pOLED-Display,50-MP-Kamera,8/256 GB,5000 mAh, inkl. 68W-Ladegerät, Android 14) Forest Blue,inkl. Schutzcover+Handyhalterung[Exklusiv bei Amazon]",
+    "deal": {
+      "memory": "256GB 8GB RAM",
+      "storeImg": "https://fdn.gsmarena.com/imgroot/static/stores/amazon-de1.png",
+      "price": 272.59,
+      "currency": "€",
+      "discount": 7.2
+    },
+    "history": [
+      {
+        "time": "Previous",
+        "price": 289.99,
+        "currency": "€"
+      },
+      {
+        "time": "Min",
+        "price": 289.99,
+        "currency": "€"
+      },
+      {
+        "time": "Max",
+        "price": 349,
+        "currency": "€"
+      },
+      {
+        "time": "30 Day Avg",
+        "price": 297.85,
+        "currency": "€"
+      }
+    ]
+  },
+  {
+    "id": "motorola_edge_(2024)-13111",
+    "img": "https://m.media-amazon.com/images/I/31V8okkgYcL._SL500_.jpg",
+    "url": "https://www.amazon.com/dp/B0D2JB6HP5?tag=gsmarena093-20&linkCode=osi&th=1&psc=1",
+    "name": "Motorola Edge (2024)",
+    "description": "Motorola Edge | 2024 | Unlocked | Made for US 8/256GB | 50MP Camera | Midnight Blue",
+    "deal": {
+      "memory": "256GB 8GB RAM",
+      "storeImg": "https://fdn.gsmarena.com/imgroot/static/stores/amazon-com1.png",
+      "price": 349.99,
+      "currency": "$",
+      "discount": 23
+    },
+    "history": [
+      {
+        "time": "Previous",
+        "price": 581.99,
+        "currency": "$"
+      },
+      {
+        "time": "Min",
+        "price": 399.99,
+        "currency": "$"
+      },
+      {
+        "time": "Max",
+        "price": 581.99,
+        "currency": "$"
+      },
+      {
+        "time": "30 Day Avg",
+        "price": 484.12,
+        "currency": "$"
+      }
+    ]
+  },
+  {
+    "id": "motorola_moto_g_power_(2024)-12867",
+    "img": "https://m.media-amazon.com/images/I/41CAmgSzyWL._SL500_.jpg",
+    "url": "https://www.amazon.com/dp/B0CT6BQV81?tag=gsmarena093-20&linkCode=osi&th=1&psc=1",
+    "name": "Motorola Moto G Power (2024)",
+    "description": "Moto G Power 5G | 2024 | Unlocked | Made for US 8/128GB | 50MP Camera | Midnight Blue",
+    "deal": {
+      "memory": "128GB 8GB RAM",
+      "storeImg": "https://fdn.gsmarena.com/imgroot/static/stores/amazon-com1.png",
+      "price": 199.99,
+      "currency": "$",
+      "discount": 18.1
+    },
+    "history": [
+      {
+        "time": "Previous",
+        "price": 249.99,
+        "currency": "$"
+      },
+      {
+        "time": "Min",
+        "price": 237.84,
+        "currency": "$"
+      },
+      {
+        "time": "Max",
+        "price": 299.99,
+        "currency": "$"
+      },
+      {
+        "time": "30 Day Avg",
+        "price": 254.16,
+        "currency": "$"
+      }
+    ]
+  },
+  {
+    "id": "motorola_moto_g_play_(2024)-12798",
+    "img": "https://m.media-amazon.com/images/I/412GnDB27xL._SL500_.jpg",
+    "url": "https://www.amazon.com/dp/B0CP6DDN1H?tag=gsmarena093-20&linkCode=osi&th=1&psc=1",
+    "name": "Motorola Moto G Play (2024)",
+    "description": "Moto G Play | 2024 | Unlocked | Made for US 4/64GB | 50MP Camera | Sapphire Blue",
+    "deal": {
+      "memory": "64GB 4GB RAM",
+      "storeImg": "https://fdn.gsmarena.com/imgroot/static/stores/amazon-com1.png",
+      "price": 109.99,
+      "currency": "$",
+      "discount": 13.1
+    },
+    "history": [
+      {
+        "time": "Previous",
+        "price": 129.99,
+        "currency": "$"
+      },
+      {
+        "time": "Min",
+        "price": 126.63,
+        "currency": "$"
+      },
+      {
+        "time": "Max",
+        "price": 149.99,
+        "currency": "$"
+      },
+      {
+        "time": "30 Day Avg",
+        "price": 129.6,
+        "currency": "$"
+      }
+    ]
+  },
+  {
+    "id": "motorola_razr_2024-13214",
+    "img": "https://m.media-amazon.com/images/I/41wcxXp-dmL._SL500_.jpg",
+    "url": "https://www.amazon.com/dp/B0D3JGGXBH?tag=gsmarena093-20&linkCode=osi&th=1&psc=1",
+    "name": "Motorola razr 2024",
+    "description": "Motorola razr | 2024 | Unlocked | Made for US 8/256GB | 50MP Camera | Beach Sand",
+    "deal": {
+      "memory": "256GB 8GB RAM",
+      "storeImg": "https://fdn.gsmarena.com/imgroot/static/stores/amazon-com1.png",
+      "price": 499,
+      "currency": "$",
+      "discount": 28.7
+    },
+    "history": [
+      {
+        "time": "Previous",
+        "price": 699.99,
+        "currency": "$"
+      },
+      {
+        "time": "Min",
+        "price": 699.99,
+        "currency": "$"
+      },
+      {
+        "time": "Max",
+        "price": 699.99,
+        "currency": "$"
+      },
+      {
+        "time": "30 Day Avg",
+        "price": 699.99,
+        "currency": "$"
+      }
+    ]
+  },
+  {
+    "id": "motorola_razr_2024-13214",
+    "img": "https://m.media-amazon.com/images/I/41KhnKEk8cL._SL500_.jpg",
+    "url": "https://www.amazon.com/dp/B0D3JKR27K?tag=gsmarena093-20&linkCode=osi&th=1&psc=1",
+    "name": "Motorola razr 2024",
+    "description": "Motorola razr | 2024 | Unlocked | Made for US 8/256GB | 50MP Camera | Spritz Orange",
+    "deal": {
+      "memory": "256GB 8GB RAM",
+      "storeImg": "https://fdn.gsmarena.com/imgroot/static/stores/amazon-com1.png",
+      "price": 499,
+      "currency": "$",
+      "discount": 25.2
+    },
+    "history": [
+      {
+        "time": "Previous",
+        "price": 699.99,
+        "currency": "$"
+      },
+      {
+        "time": "Min",
+        "price": 624.67,
+        "currency": "$"
+      },
+      {
+        "time": "Max",
+        "price": 699.99,
+        "currency": "$"
+      },
+      {
+        "time": "8 Day Avg",
+        "price": 675.14,
+        "currency": "$"
+      }
+    ]
+  },
+  {
+    "id": "motorola_moto_g_5g-10577",
+    "img": "https://m.media-amazon.com/images/I/41QseMdyGQL._SL500_.jpg",
+    "url": "https://www.amazon.ca/dp/B0C3RWQBRF?tag=gsmarena0f3-20&linkCode=osi&th=1&psc=1",
+    "name": "Motorola Moto G 5G",
+    "description": "Motorola PATE0008CA Moto G 5G 6.5\" 64GB Unlocked Cell Phone - Grey",
+    "deal": {
+      "memory": "64GB 4GB RAM",
+      "storeImg": "https://fdn.gsmarena.com/imgroot/static/stores/amazon-ca1.png",
+      "price": 315.61,
+      "currency": "C$",
+      "discount": 10.3
+    },
+    "history": [
+      {
+        "time": "Previous",
+        "price": 337.34,
+        "currency": "C$"
+      },
+      {
+        "time": "Min",
+        "price": 337.34,
+        "currency": "C$"
+      },
+      {
+        "time": "Max",
+        "price": 358.22,
+        "currency": "C$"
+      },
+      {
+        "time": "30 Day Avg",
+        "price": 352.45,
+        "currency": "C$"
+      }
+    ]
+  },
+  {
+    "id": "apple_iphone_16_pro-13315",
+    "img": "https://m.media-amazon.com/images/I/31wxiueGJbL._SL500_.jpg",
+    "url": "https://www.amazon.de/dp/B0DGHZ153T?tag=gsmarena0ca-21&linkCode=osi&th=1&psc=1",
+    "name": "Apple iPhone 16 Pro",
+    "description": "Apple iPhone 16 Pro 512 GB: 5G Handy mit Kamerasteuerung, 4K 120 fps Dolby Vision und einem großen Sprung bei der Batterielaufzeit. Funktioniert mit AirPods, Titan Wüstensand",
+    "deal": {
+      "memory": "512GB 8GB RAM",
+      "storeImg": "https://fdn.gsmarena.com/imgroot/static/stores/amazon-de1.png",
+      "price": 1579,
+      "currency": "€",
+      "discount": 6.5
+    },
+    "history": [
+      {
+        "time": "Previous",
+        "price": 1689,
+        "currency": "€"
+      },
+      {
+        "time": "Min",
+        "price": 1689,
+        "currency": "€"
+      },
+      {
+        "time": "Max",
+        "price": 1689,
+        "currency": "€"
+      },
+      {
+        "time": "1 Day Avg",
+        "price": 1689,
+        "currency": "€"
+      }
+    ]
+  },
+  {
+    "id": "huawei_pura_70_pro-12942",
+    "img": "https://m.media-amazon.com/images/I/318fWYtvE+L._SL500_.jpg",
+    "url": "https://www.amazon.de/dp/B0CZ3J1PT7?tag=gsmarena0ca-21&linkCode=osi&th=1&psc=1",
+    "name": "Huawei Pura 70 Pro",
+    "description": "HUAWEI Pura 70 Pro Smartphone, 12GB + 512GB, Ultra Speed Snapshot, Ultra Lighting Macro Phone Camera, Super Robust Kunlun Glass, 100W Supercharge, 5050mAh Battery,Black",
+    "deal": {
+      "memory": "512GB 12GB RAM",
+      "storeImg": "https://fdn.gsmarena.com/imgroot/static/stores/amazon-de1.png",
+      "price": 1008.34,
+      "currency": "€",
+      "discount": 11.4
+    },
+    "history": [
+      {
+        "time": "Previous",
+        "price": 1098.43,
+        "currency": "€"
+      },
+      {
+        "time": "Min",
+        "price": 1037.75,
+        "currency": "€"
+      },
+      {
+        "time": "Max",
+        "price": 1199,
+        "currency": "€"
+      },
+      {
+        "time": "30 Day Avg",
+        "price": 1145.14,
+        "currency": "€"
+      }
+    ]
+  },
+  {
+    "id": "sony_xperia_10_vi-13002",
+    "img": "https://m.media-amazon.com/images/I/41EEeHoYnIL._SL500_.jpg",
+    "url": "https://www.amazon.de/dp/B0D1C5P11V?tag=gsmarena0ca-21&linkCode=osi&th=1&psc=1",
+    "name": "Sony Xperia 10 VI",
+    "description": "Sony Xperia 10 VI (5.000 mAh Akku, 6,1 Zoll 21:9 OLED, DREI optische Brennweiten, Leicht und kompakt, 3,5mm Audio, Android 14, IP65/68, Dual SIM, weiß, 24+12 Monate Garantie [Amazon Exklusiv]",
+    "deal": {
+      "memory": "128GB 8GB RAM",
+      "storeImg": "https://fdn.gsmarena.com/imgroot/static/stores/amazon-de1.png",
+      "price": 349,
+      "currency": "€",
+      "discount": 3.6
+    },
+    "history": [
+      {
+        "time": "Previous",
+        "price": 369,
+        "currency": "€"
+      },
+      {
+        "time": "Min",
+        "price": 359,
+        "currency": "€"
+      },
+      {
+        "time": "Max",
+        "price": 399,
+        "currency": "€"
+      },
+      {
+        "time": "30 Day Avg",
+        "price": 363.33,
+        "currency": "€"
+      }
+    ]
+  },
+  {
+    "id": "huawei_pura_70_pro-12942",
+    "img": "https://m.media-amazon.com/images/I/31n2K-RHxfL._SL500_.jpg",
+    "url": "https://www.amazon.de/dp/B0CZ38N4VX?tag=gsmarena0ca-21&linkCode=osi&th=1&psc=1",
+    "name": "Huawei Pura 70 Pro",
+    "description": "HUAWEI Pura 70 Pro Smartphone, 12GB + 512GB, Ultra Speed Snapshot, Ultra Lighting Macro Phone Camera, Super Robust Kunlun Glass, 100W Supercharge, 5050mAh Battery, White",
+    "deal": {
+      "memory": "512GB 12GB RAM",
+      "storeImg": "https://fdn.gsmarena.com/imgroot/static/stores/amazon-de1.png",
+      "price": 1008.34,
+      "currency": "€",
+      "discount": 13.5
+    },
+    "history": [
+      {
+        "time": "Previous",
+        "price": 1133.54,
+        "currency": "€"
+      },
+      {
+        "time": "Min",
+        "price": 1043.13,
+        "currency": "€"
+      },
+      {
+        "time": "Max",
+        "price": 1199,
+        "currency": "€"
+      },
+      {
+        "time": "30 Day Avg",
+        "price": 1170.66,
+        "currency": "€"
+      }
+    ]
+  },
+  {
+    "id": "vivo_v29-12461",
+    "img": "https://m.media-amazon.com/images/I/41JjKT8SwNL._SL500_.jpg",
+    "url": "https://www.amazon.de/dp/B0CW363ZFV?tag=gsmarena0ca-21&linkCode=osi&th=1&psc=1",
+    "name": "vivo V29",
+    "description": "VIVO V29 5G-Smartphone, 120 Hz AMOLED 17,9 cm (6,78 Zoll) 3D-Display, 8 GB + 256 GB Android-Handy, 50 MP OIS Anti-Shake Kamera, 80 W Flashcharge-Telefon, Schwarz",
+    "deal": {
+      "memory": "256GB 8GB RAM",
+      "storeImg": "https://fdn.gsmarena.com/imgroot/static/stores/amazon-de1.png",
+      "price": 412.05,
+      "currency": "€",
+      "discount": 15
+    },
+    "history": [
+      {
+        "time": "Previous",
+        "price": 508.74,
+        "currency": "€"
+      },
+      {
+        "time": "Min",
+        "price": 484.56,
+        "currency": "€"
+      },
+      {
+        "time": "Max",
+        "price": 605.44,
+        "currency": "€"
+      },
+      {
+        "time": "30 Day Avg",
+        "price": 503.09,
+        "currency": "€"
+      }
+    ]
+  },
+  {
+    "id": "vivo_v29-12461",
+    "img": "https://m.media-amazon.com/images/I/41p8LTMjyDL._SL500_.jpg",
+    "url": "https://www.amazon.de/dp/B0CW36L8FV?tag=gsmarena0ca-21&linkCode=osi&th=1&psc=1",
+    "name": "vivo V29",
+    "description": "vivo V29 5G-Smartphone, 120 Hz AMOLED 17,9 cm (6,78 Zoll) 3D-Display, 8 GB + 256 GB Android-Handy, 50 MP OIS Anti-Shake Kamera, 80 W Flashcharge-Telefon, Blau",
+    "deal": {
+      "memory": "256GB 8GB RAM",
+      "storeImg": "https://fdn.gsmarena.com/imgroot/static/stores/amazon-de1.png",
+      "price": 412.05,
+      "currency": "€",
+      "discount": 15
+    },
+    "history": [
+      {
+        "time": "Previous",
+        "price": 508.74,
+        "currency": "€"
+      },
+      {
+        "time": "Min",
+        "price": 484.56,
+        "currency": "€"
+      },
+      {
+        "time": "Max",
+        "price": 605.44,
+        "currency": "€"
+      },
+      {
+        "time": "30 Day Avg",
+        "price": 503.09,
+        "currency": "€"
+      }
+    ]
+  },
+  {
+    "id": "vivo_v40_lite-13207",
+    "img": "https://m.media-amazon.com/images/I/41H8TpfPlRL._SL500_.jpg",
+    "url": "https://www.amazon.de/dp/B0D5D8VTP3?tag=gsmarena0ca-21&linkCode=osi&th=1&psc=1",
+    "name": "vivo V40 Lite",
+    "description": "vivo V40 Lite 5G Smartphone, 8 GB + 256 GB, 17,8 cm (6,78 Zoll) gebogenes AMOLED-Display, 120 Hz FHD+, Dreifachkamera 50 MP + 8 MP + 2 MP, Aura Light, XL-Akku 5500 mAh + 44 W Flashcharge, IP64,",
+    "deal": {
+      "memory": "256GB 8GB RAM",
+      "storeImg": "https://fdn.gsmarena.com/imgroot/static/stores/amazon-de1.png",
+      "price": 448.31,
+      "currency": "€",
+      "discount": 13.8
+    },
+    "history": [
+      {
+        "time": "Previous",
+        "price": 545,
+        "currency": "€"
+      },
+      {
+        "time": "Min",
+        "price": 463.59,
+        "currency": "€"
+      },
+      {
+        "time": "Max",
+        "price": 569.17,
+        "currency": "€"
+      },
+      {
+        "time": "30 Day Avg",
+        "price": 526.81,
+        "currency": "€"
+      }
+    ]
+  },
+  {
+    "id": "motorola_razr+_2024-13213",
+    "img": "https://m.media-amazon.com/images/I/41AO45lhdxL._SL500_.jpg",
+    "url": "https://www.amazon.com/dp/B0D2JD3ZZQ?tag=gsmarena093-20&linkCode=osi&th=1&psc=1",
+    "name": "Motorola razr+ 2024",
+    "description": "Motorola razr+ | 2024 | Unlocked | Made for US 12/256 | 50MP Camera | Spring Green",
+    "deal": {
+      "memory": "256GB 12GB RAM",
+      "storeImg": "https://fdn.gsmarena.com/imgroot/static/stores/amazon-com1.png",
+      "price": 799.99,
+      "currency": "$",
+      "discount": 10.3
+    },
+    "history": [
+      {
+        "time": "Previous",
+        "price": 999.99,
+        "currency": "$"
+      },
+      {
+        "time": "Min",
+        "price": 899.99,
+        "currency": "$"
+      },
+      {
+        "time": "Max",
+        "price": 999.99,
+        "currency": "$"
+      },
+      {
+        "time": "30 Day Avg",
+        "price": 903.32,
+        "currency": "$"
+      }
+    ]
+  },
+  {
+    "id": "motorola_razr+_2024-13213",
+    "img": "https://m.media-amazon.com/images/I/41sPxAUrCYL._SL500_.jpg",
+    "url": "https://www.amazon.com/dp/B0D23P28XX?tag=gsmarena093-20&linkCode=osi&th=1&psc=1",
+    "name": "Motorola razr+ 2024",
+    "description": "Motorola razr+ | 2024 | Unlocked | Made for US 12/256 | 50MP Camera | Midnight Blue",
+    "deal": {
+      "memory": "256GB 12GB RAM",
+      "storeImg": "https://fdn.gsmarena.com/imgroot/static/stores/amazon-com1.png",
+      "price": 799.99,
+      "currency": "$",
+      "discount": 9.9
+    },
+    "history": [
+      {
+        "time": "Previous",
+        "price": 999.99,
+        "currency": "$"
+      },
+      {
+        "time": "Min",
+        "price": 839.97,
+        "currency": "$"
+      },
+      {
+        "time": "Max",
+        "price": 999.99,
+        "currency": "$"
+      },
+      {
+        "time": "30 Day Avg",
+        "price": 898.65,
+        "currency": "$"
+      }
+    ]
+  },
+  {
+    "id": "oneplus_nord_4-13200",
+    "img": "https://m.media-amazon.com/images/I/41EuRSl9VdL._SL500_.jpg",
+    "url": "https://www.amazon.co.uk/dp/B0D8LJ2MZM?tag=gsmcom-21&linkCode=osi&th=1&psc=1",
+    "name": "OnePlus Nord 4",
+    "description": "OnePlus Nord 4 5G 12GB RAM 256GB Storage SIM-Free Smartphone with 50 MP Dual Camera + OIS - Obsidian Midnight",
+    "deal": {
+      "memory": "256GB 12GB RAM",
+      "storeImg": "https://fdn.gsmarena.com/imgroot/static/stores/amazon-uk1.png",
+      "price": 379,
+      "currency": "£",
+      "discount": 9.3
+    },
+    "history": [
+      {
+        "time": "Previous",
+        "price": 429,
+        "currency": "£"
+      },
+      {
+        "time": "Min",
+        "price": 390.38,
+        "currency": "£"
+      },
+      {
+        "time": "Max",
+        "price": 429,
+        "currency": "£"
+      },
+      {
+        "time": "30 Day Avg",
+        "price": 418.93,
+        "currency": "£"
+      }
+    ]
+  },
+  {
+    "id": "google_pixel_9_pro_xl-13217",
+    "img": "https://m.media-amazon.com/images/I/21zIYAVaqeL._SL500_.jpg",
+    "url": "https://www.amazon.de/dp/B0D7V242WR?tag=gsmarena0ca-21&linkCode=osi&th=1&psc=1",
+    "name": "Google Pixel 9 Pro XL",
+    "description": "Google Pixel 9 Pro XL – Android-Smartphone mit Gemini ohne SIM-Lock, Dreifach-Rückkamerasystem, 24 Stunden Akkulaufzeit und EIN 6,8 Zoll großes Super Actua-Display – Porcelain, 256GB",
+    "deal": {
+      "memory": "256GB 16GB RAM",
+      "storeImg": "https://fdn.gsmarena.com/imgroot/static/stores/amazon-de1.png",
+      "price": 962.85,
+      "currency": "€",
+      "discount": 18
+    },
+    "history": [
+      {
+        "time": "Previous",
+        "price": 1119.99,
+        "currency": "€"
+      },
+      {
+        "time": "Min",
+        "price": 983.18,
+        "currency": "€"
+      },
+      {
+        "time": "Max",
+        "price": 1299,
+        "currency": "€"
+      },
+      {
+        "time": "30 Day Avg",
+        "price": 1196.8,
+        "currency": "€"
+      }
+    ]
+  },
+  {
+    "id": "zte_blade_v60_design-13377",
+    "img": "https://m.media-amazon.com/images/I/41I2Hfe-3cL._SL500_.jpg",
+    "url": "https://www.amazon.de/dp/B0D7CJP29W?tag=gsmarena0ca-21&linkCode=osi&th=1&psc=1",
+    "name": "ZTE Blade V60 Design",
+    "description": "ZTE Smartphone Blade V60 VITA 2024 (16,76cm (6,6 Zoll) HD+ Display, 4G LTE, 4GB RAM und 256GB interner Speicher, 50MP Hauptkamera und 8MP Frontkamera, Dual-SIM, Android 13) blau",
+    "deal": {
+      "memory": "256GB 4GB RAM",
+      "storeImg": "https://fdn.gsmarena.com/imgroot/static/stores/amazon-de1.png",
+      "price": 117.99,
+      "currency": "€",
+      "discount": 7.1
+    },
+    "history": [
+      {
+        "time": "Previous",
+        "price": 126.99,
+        "currency": "€"
+      },
+      {
+        "time": "Min",
+        "price": 126.99,
+        "currency": "€"
+      },
+      {
+        "time": "Max",
+        "price": 126.99,
+        "currency": "€"
+      },
+      {
+        "time": "5 Day Avg",
+        "price": 126.99,
+        "currency": "€"
+      }
+    ]
+  },
+  {
+    "id": "google_pixel_9_pro_fold-13220",
+    "img": "https://m.media-amazon.com/images/I/31Ayg0bMJ3L._SL500_.jpg",
+    "url": "https://www.amazon.ca/dp/B0D7V1G966?tag=gsmarena0f3-20&linkCode=osi&th=1&psc=1",
+    "name": "Google Pixel 9 Pro Fold",
+    "description": "Google Pixel 9 Pro Fold - Unlocked Android Smartphone with Gemini - Advanced Triple Rear Camera System - Foldable Display - Hands-Free Video - Obsidian - 512 GB",
+    "deal": {
+      "memory": "512GB 16GB RAM",
+      "storeImg": "https://fdn.gsmarena.com/imgroot/static/stores/amazon-ca1.png",
+      "price": 2319,
+      "currency": "C$",
+      "discount": 9.7
+    },
+    "history": [
+      {
+        "time": "Previous",
+        "price": 2569,
+        "currency": "C$"
+      },
+      {
+        "time": "Min",
+        "price": 2569,
+        "currency": "C$"
+      },
+      {
+        "time": "Max",
+        "price": 2569.99,
+        "currency": "C$"
+      },
+      {
+        "time": "29 Day Avg",
+        "price": 2569.13,
+        "currency": "C$"
+      }
+    ]
+  },
+  {
+    "id": "google_pixel_9_pro_fold-13220",
+    "img": "https://m.media-amazon.com/images/I/31Ayg0bMJ3L._SL500_.jpg",
+    "url": "https://www.amazon.ca/dp/B0D7V1J2Y1?tag=gsmarena0f3-20&linkCode=osi&th=1&psc=1",
+    "name": "Google Pixel 9 Pro Fold",
+    "description": "Google Pixel 9 Pro Fold - Unlocked Android Smartphone with Gemini - Advanced Triple Rear Camera System - Foldable Display - Hands-Free Video - Obsidian - 256 GB",
+    "deal": {
+      "memory": "256GB 16GB RAM",
+      "storeImg": "https://fdn.gsmarena.com/imgroot/static/stores/amazon-ca1.png",
+      "price": 2149,
+      "currency": "C$",
+      "discount": 10.4
+    },
+    "history": [
+      {
+        "time": "Previous",
+        "price": 2399,
+        "currency": "C$"
+      },
+      {
+        "time": "Min",
+        "price": 2399,
+        "currency": "C$"
+      },
+      {
+        "time": "Max",
+        "price": 2399.99,
+        "currency": "C$"
+      },
+      {
+        "time": "29 Day Avg",
+        "price": 2399.13,
+        "currency": "C$"
+      }
+    ]
+  },
+  {
+    "id": "google_pixel_9_pro_xl-13217",
+    "img": "https://m.media-amazon.com/images/I/21F7QRQwb0L._SL500_.jpg",
+    "url": "https://www.amazon.ca/dp/B0D8V4B65C?tag=gsmarena0f3-20&linkCode=osi&th=1&psc=1",
+    "name": "Google Pixel 9 Pro XL",
+    "description": "Google Pixel 9 Pro XL - 512 GB - 6.8-inch Display - Unlocked Android Smartphone with Advanced Pixel Camera, 24+ Hour Battery Life, Fast Wireless Charging, Dual SIM, and Powerful Security - Obsidian",
+    "deal": {
+      "memory": "512GB 16GB RAM",
+      "storeImg": "https://fdn.gsmarena.com/imgroot/static/stores/amazon-ca1.png",
+      "price": 1649,
+      "currency": "C$",
+      "discount": 8.3
+    },
+    "history": [
+      {
+        "time": "Previous",
+        "price": 1799,
+        "currency": "C$"
+      },
+      {
+        "time": "Min",
+        "price": 1799,
+        "currency": "C$"
+      },
+      {
+        "time": "Max",
+        "price": 1799,
+        "currency": "C$"
+      },
+      {
+        "time": "30 Day Avg",
+        "price": 1799,
+        "currency": "C$"
+      }
+    ]
+  },
+  {
+    "id": "honor_magic6_lite-12730",
+    "img": "https://m.media-amazon.com/images/I/41nq5KoXIQL._SL500_.jpg",
+    "url": "https://www.amazon.co.uk/dp/B0CNHFG5K4?tag=gsmcom-21&linkCode=osi&th=1&psc=1",
+    "name": "Honor Magic6 Lite",
+    "description": "HONOR Magic6 Lite, Sim-Free Mobile Phones, 5G Smartphone, 8GB+256GB, 6,78” Anti-Drop 120Hz Display, 108MP Triple Rear Camera, 5300mAh Battery, Dual SIM, Android 13, Midnight Black",
+    "deal": {
+      "memory": "256GB 8GB RAM",
+      "storeImg": "https://fdn.gsmarena.com/imgroot/static/stores/amazon-uk1.png",
+      "price": 197.96,
+      "currency": "£",
+      "discount": 7
+    },
+    "history": [
+      {
+        "time": "Previous",
+        "price": 219,
+        "currency": "£"
+      },
+      {
+        "time": "Min",
+        "price": 215.92,
+        "currency": "£"
+      },
+      {
+        "time": "Max",
+        "price": 299.99,
+        "currency": "£"
+      },
+      {
+        "time": "30 Day Avg",
+        "price": 219,
+        "currency": "£"
+      }
+    ]
+  },
+  {
+    "id": "fairphone_5-12540",
+    "img": "https://m.media-amazon.com/images/I/41dzeRHV6BL._SL500_.jpg",
+    "url": "https://www.amazon.de/dp/B0CLRL4TY8?tag=gsmarena0ca-21&linkCode=osi&th=1&psc=1",
+    "name": "Fairphone 5",
+    "description": "Fairphone 5 5G (8GB, 256GB) Transparente Edition",
+    "deal": {
+      "memory": "256GB 8GB RAM",
+      "storeImg": "https://fdn.gsmarena.com/imgroot/static/stores/amazon-de1.png",
+      "price": 629,
+      "currency": "€",
+      "discount": 7.8
+    },
+    "history": [
+      {
+        "time": "Previous",
+        "price": 699,
+        "currency": "€"
+      },
+      {
+        "time": "Min",
+        "price": 649,
+        "currency": "€"
+      },
+      {
+        "time": "Max",
+        "price": 699,
+        "currency": "€"
+      },
+      {
+        "time": "30 Day Avg",
+        "price": 683.66,
+        "currency": "€"
+      }
+    ]
+  },
+  {
+    "id": "fairphone_5-12540",
+    "img": "https://m.media-amazon.com/images/I/41c08u9GxuL._SL500_.jpg",
+    "url": "https://www.amazon.de/dp/B0CLRL8PZK?tag=gsmarena0ca-21&linkCode=osi&th=1&psc=1",
+    "name": "Fairphone 5",
+    "description": "Fairphone 5 5G (8GB, 256GB) Himmelblau",
+    "deal": {
+      "memory": "256GB 8GB RAM",
+      "storeImg": "https://fdn.gsmarena.com/imgroot/static/stores/amazon-de1.png",
+      "price": 629,
+      "currency": "€",
+      "discount": 8.3
+    },
+    "history": [
+      {
+        "time": "Previous",
+        "price": 699,
+        "currency": "€"
+      },
+      {
+        "time": "Min",
+        "price": 649,
+        "currency": "€"
+      },
+      {
+        "time": "Max",
+        "price": 699,
+        "currency": "€"
+      },
+      {
+        "time": "30 Day Avg",
+        "price": 687,
+        "currency": "€"
+      }
+    ]
+  },
+  {
+    "id": "samsung_galaxy_watch7-13128",
+    "img": "https://m.media-amazon.com/images/I/418F1SJgn2L._SL500_.jpg",
+    "url": "https://www.amazon.de/dp/B0D47JBWCC?tag=gsmarena0ca-21&linkCode=osi&th=1&psc=1",
+    "name": "Samsung Galaxy Watch7",
+    "description": "Samsung Galaxy Watch7 Smartwatch, Fitness-Uhr, Fitness Tracker und Aktivitätstracker, 44 mm, LTE, Silver, Inkl. 36 Monate Herstellergarantie",
+    "deal": {
+      "memory": "32GB 2GB RAM",
+      "storeImg": "https://fdn.gsmarena.com/imgroot/static/stores/amazon-de1.png",
+      "price": 369.99,
+      "currency": "€",
+      "discount": 5.1
+    },
+    "history": [
+      {
+        "time": "Previous",
+        "price": 389.99,
+        "currency": "€"
+      },
+      {
+        "time": "Min",
+        "price": 389.99,
+        "currency": "€"
+      },
+      {
+        "time": "Max",
+        "price": 389.99,
+        "currency": "€"
+      },
+      {
+        "time": "19 Day Avg",
+        "price": 389.99,
+        "currency": "€"
+      }
+    ]
+  },
+  {
+    "id": "motorola_moto_g55-13278",
+    "img": "https://m.media-amazon.com/images/I/41QOC2SgA5L._SL500_.jpg",
+    "url": "https://www.amazon.co.uk/dp/B0DCKF8XPX?tag=gsmcom-21&linkCode=osi&th=1&psc=1",
+    "name": "Motorola Moto G55",
+    "description": "moto g55 5G (6.49\" Full HD+ 120Hz, Water-repellent IP52, 50MP camera with OIS, 68W TurboPower charging, 5000mAh battery, Dolby Atmos audio, Android 14, MediaTek Dimensity 7025, dual SIM), Forest Grey",
+    "deal": {
+      "memory": "128GB 8GB RAM",
+      "storeImg": "https://fdn.gsmarena.com/imgroot/static/stores/amazon-uk1.png",
+      "price": 199.99,
+      "currency": "£",
+      "discount": 7.7
+    },
+    "history": [
+      {
+        "time": "Previous",
+        "price": 216.61,
+        "currency": "£"
+      },
+      {
+        "time": "Min",
+        "price": 216.61,
+        "currency": "£"
+      },
+      {
+        "time": "Max",
+        "price": 216.86,
+        "currency": "£"
+      },
+      {
+        "time": "11 Day Avg",
+        "price": 216.68,
+        "currency": "£"
+      }
+    ]
+  },
+  {
+    "id": "oneplus_nord_ce4_lite-13166",
+    "img": "https://m.media-amazon.com/images/I/41Y148Jq4wL._SL500_.jpg",
+    "url": "https://www.amazon.de/dp/B0D47HKQJM?tag=gsmarena0ca-21&linkCode=osi&th=1&psc=1",
+    "name": "OnePlus Nord CE4 Lite",
+    "description": "OnePlus Nord CE 4 Lite 5G 8GB RAM 256GB Speicher SIM-freies Smartphone mit 50MP Dual-Kamera - 2 Mega Blau",
+    "deal": {
+      "memory": "256GB 8GB RAM",
+      "storeImg": "https://fdn.gsmarena.com/imgroot/static/stores/amazon-de1.png",
+      "price": 249,
+      "currency": "€",
+      "discount": 8.3
+    },
+    "history": [
+      {
+        "time": "Previous",
+        "price": 274.78,
+        "currency": "€"
+      },
+      {
+        "time": "Min",
+        "price": 270.9,
+        "currency": "€"
+      },
+      {
+        "time": "Max",
+        "price": 383.86,
+        "currency": "€"
+      },
+      {
+        "time": "30 Day Avg",
+        "price": 280.99,
+        "currency": "€"
+      }
+    ]
+  },
+  {
+    "id": "oneplus_nord_ce4_lite-13166",
+    "img": "https://m.media-amazon.com/images/I/41nwZUGUaZL._SL500_.jpg",
+    "url": "https://www.amazon.de/dp/B0D47GS8PW?tag=gsmarena0ca-21&linkCode=osi&th=1&psc=1",
+    "name": "OnePlus Nord CE4 Lite",
+    "description": "OnePlus Nord CE 4 Lite 5G 8GB RAM 256GB Speicher SIM-freies Smartphone mit 50MP Dual-Kamera - 2 Super Silber",
+    "deal": {
+      "memory": "256GB 8GB RAM",
+      "storeImg": "https://fdn.gsmarena.com/imgroot/static/stores/amazon-de1.png",
+      "price": 249,
+      "currency": "€",
+      "discount": 7.1
+    },
+    "history": [
+      {
+        "time": "Previous",
+        "price": 273.91,
+        "currency": "€"
+      },
+      {
+        "time": "Min",
+        "price": 269.05,
+        "currency": "€"
+      },
+      {
+        "time": "Max",
+        "price": 383.86,
+        "currency": "€"
+      },
+      {
+        "time": "30 Day Avg",
+        "price": 276.36,
+        "currency": "€"
+      }
+    ]
+  },
+  {
+    "id": "samsung_galaxy_watch7-13128",
+    "img": "https://m.media-amazon.com/images/I/418F1SJgn2L._SL500_.jpg",
+    "url": "https://www.amazon.de/dp/B0D47MF14R?tag=gsmarena0ca-21&linkCode=osi&th=1&psc=1",
+    "name": "Samsung Galaxy Watch7",
+    "description": "Samsung Galaxy Watch7 Smartwatch, Fitness-Uhr, Fitness Tracker und Aktivitätstracker, 44 mm, Bluetooth, Silver, Inkl. 36 Monate Herstellergarantie",
+    "deal": {
+      "memory": "32GB 2GB RAM",
+      "storeImg": "https://fdn.gsmarena.com/imgroot/static/stores/amazon-de1.png",
+      "price": 289,
+      "currency": "€",
+      "discount": 14.8
+    },
+    "history": [
+      {
+        "time": "Previous",
+        "price": 339.99,
+        "currency": "€"
+      },
+      {
+        "time": "Min",
+        "price": 339,
+        "currency": "€"
+      },
+      {
+        "time": "Max",
+        "price": 339.99,
+        "currency": "€"
+      },
+      {
+        "time": "13 Day Avg",
+        "price": 339.15,
+        "currency": "€"
+      }
+    ]
+  },
+  {
+    "id": "samsung_galaxy_watch7-13128",
+    "img": "https://m.media-amazon.com/images/I/41JJyn+6DKL._SL500_.jpg",
+    "url": "https://www.amazon.de/dp/B0D47MPRWW?tag=gsmarena0ca-21&linkCode=osi&th=1&psc=1",
+    "name": "Samsung Galaxy Watch7",
+    "description": "Samsung Galaxy Watch7 Smartwatch, Fitness-Uhr, Fitness Tracker und Aktivitätstracker, 44 mm, Bluetooth, Green, Inkl. 36 Monate Herstellergarantie",
+    "deal": {
+      "memory": "32GB 2GB RAM",
+      "storeImg": "https://fdn.gsmarena.com/imgroot/static/stores/amazon-de1.png",
+      "price": 289,
+      "currency": "€",
+      "discount": 14.6
+    },
+    "history": [
+      {
+        "time": "Previous",
+        "price": 349,
+        "currency": "€"
+      },
+      {
+        "time": "Min",
+        "price": 339,
+        "currency": "€"
+      },
+      {
+        "time": "Max",
+        "price": 349,
+        "currency": "€"
+      },
+      {
+        "time": "12 Day Avg",
+        "price": 339.83,
+        "currency": "€"
+      }
+    ]
+  },
+  {
+    "id": "google_pixel_9_pro-13218",
+    "img": "https://m.media-amazon.com/images/I/21QmS3TMTkL._SL500_.jpg",
+    "url": "https://www.amazon.co.uk/dp/B0D7V2VBBJ?tag=gsmcom-21&linkCode=osi&th=1&psc=1",
+    "name": "Google Pixel 9 Pro",
+    "description": "Google Pixel 9 Pro - Unlocked Android Smartphone with Gemini, Triple Rear Camera System, 24-Hour Battery, and 6.3\" Super Actua Display - Hazel, 128GB",
+    "deal": {
+      "memory": "128GB 16GB RAM",
+      "storeImg": "https://fdn.gsmarena.com/imgroot/static/stores/amazon-uk1.png",
+      "price": 999,
+      "currency": "£",
+      "discount": 22.5
+    },
+    "history": [
+      {
+        "time": "Previous",
+        "price": 1093,
+        "currency": "£"
+      },
+      {
+        "time": "Min",
+        "price": 1093,
+        "currency": "£"
+      },
+      {
+        "time": "Max",
+        "price": 1289,
+        "currency": "£"
+      },
+      {
+        "time": "2 Day Avg",
+        "price": 1289,
+        "currency": "£"
+      }
+    ]
+  },
+  {
+    "id": "fairphone_5-12540",
+    "img": "https://m.media-amazon.com/images/I/41DD+xE0oiL._SL500_.jpg",
+    "url": "https://www.amazon.co.uk/dp/B0CH3N3Y3D?tag=gsmcom-21&linkCode=osi&th=1&psc=1",
+    "name": "Fairphone 5",
+    "description": "Fairphone 5 256GB 5G SIM Free Smartphone - Sky Blue, F5FPHN-2BL-EU1",
+    "deal": {
+      "memory": "256GB 8GB RAM",
+      "storeImg": "https://fdn.gsmarena.com/imgroot/static/stores/amazon-uk1.png",
+      "price": 520.96,
+      "currency": "£",
+      "discount": 12.8
+    },
+    "history": [
+      {
+        "time": "Previous",
+        "price": 587.04,
+        "currency": "£"
+      },
+      {
+        "time": "Min",
+        "price": 584.99,
+        "currency": "£"
+      },
+      {
+        "time": "Max",
+        "price": 799,
+        "currency": "£"
+      },
+      {
+        "time": "30 Day Avg",
+        "price": 623.12,
+        "currency": "£"
+      }
+    ]
+  }
+]
