@@ -1,10 +1,12 @@
 import React from "react";
 import Header from "./components/header/Header";
+import Homepage from "./components/HomePage/Homepage";
+
 function App() {
   return (
     <>
-      <h1>new NPL project </h1>
       <Header />
+      <Homepage />
     </>
   );
 }
