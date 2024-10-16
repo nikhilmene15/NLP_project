@@ -21,7 +21,7 @@ function Homepage() {
       <Slider {...settings}>
         <div className="carousel-slide">
           <img
-            src="https://images.samsung.com/is/image/samsung/assets/in/Freestyle_1440x640_new1.jpg"
+            src="https://images.samsung.com/is/image/samsung/assets/in/home/241014/TV_1440x640.jpg?imwidth=1536"
             alt="Freestyle Banner"
             className="carousel-image"
           />
@@ -43,7 +43,7 @@ function Homepage() {
         </div>
         <div className="carousel-slide">
           <img
-            src="https://images.samsung.com/is/image/samsung/assets/in/11166_Dotcom_Windfree_AC_Banner_1440x6401.jpg"
+            src="https://images.samsung.com/is/image/samsung/assets/in/home/241011/Wash_1440x640.jpg?imwidth=1536"
             alt="Windfree AC Banner"
             className="carousel-image"
           />
@@ -54,7 +54,7 @@ function Homepage() {
         </div>
         <div className="carousel-slide">
           <img
-            src="https://images.samsung.com/is/image/samsung/assets/in/11316-S22-Ultra-1TB_Banners_1440x640_updated_disclaimer.jpg"
+            src="https://images.samsung.com/is/image/samsung/assets/in/home/241011/Main-KV_1440x640_v1.jpg?imwidth=1536"
             alt="S22 Ultra Banner"
             className="carousel-image"
           />
